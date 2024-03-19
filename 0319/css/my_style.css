@@ -1,0 +1,23 @@
+@charset "utf-8";
+.title_style {
+    text-decoration: blink;
+    color: #8E2E30;
+	display: flex;
+  	/* 水平置中 */
+  	justify-content: center;    
+  	/* 垂直置中 */
+  	align-items: center;    
+}
+.main_style {
+    background-color: #8C3032;
+}
+.image1 {
+    width: 500px;
+    height: auto;
+    -webkit-box-shadow: 10px 10px 20px #233257;
+    box-shadow: 10px 10px 20px #233257;
+    border-radius: 10px;
+}
+.image2 {
+    width: 500px;
+}

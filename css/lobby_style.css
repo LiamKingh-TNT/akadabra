@@ -1,0 +1,10 @@
+@charset "utf-8";
+.text_link_style {
+    color: #5D741E;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: oblique;
+    text-shadow: 0 0;
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline;
+}
